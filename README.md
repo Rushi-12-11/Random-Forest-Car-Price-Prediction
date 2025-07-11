@@ -13,13 +13,18 @@ Predicting used car prices can be unpredictable — sellers often overprice, buy
 ---
 
 ## 📂 Project Structure
-
-car-price-prediction/
+```
+Random-Forest-Car-Price-Prediction/
+├── Image/ # Folder for saved plots (e.g., Actual vs Predicted)
+│ └── Actual_vs_PredictedPrice.png
 │
-├── car.csv # Dataset
-├── car_price_rf.ipynb # Main notebook
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── Notebook/ # Jupyter Notebooks
+│ └── car_price_rf.ipynb
+│
+├── README.md # Project documentation
+├── requirments.txt # Project dependencies (spelling corrected!)
+
+```
 ---
 
 ## 📊 Dataset Overview
