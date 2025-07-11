@@ -119,8 +119,8 @@ Model performance after inverse transformation:
 
 Made with ❤️ by **[Rushikesh Thokade]** — Final Year CSE student passionate about AI/ML and solving real-world problems with code.
 
-📫 Connect on [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
-🔗 Explore more projects on [GitHub](https://github.com/YOUR_USERNAME)
+📫 Connect on [LinkedIn](www.linkedin.com/in/rushikesh-thokade)  
+🔗 Explore more projects on [GitHub](https://github.com/Rushi-12-11)
 
 ---
 
