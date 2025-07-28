@@ -117,7 +117,7 @@ Model performance after inverse transformation:
 
 ## 💬 Author
 
-Made with ❤️ by **[Rushikesh Thokade]** — Final Year CSE student passionate about AI/ML and solving real-world problems with code.
+Made by **[Rushikesh Thokade]** — Final Year CSE student passionate about AI/ML and solving real-world problems with code.
 
 📫 Connect on [LinkedIn](www.linkedin.com/in/rushikesh-thokade)  
 🔗 Explore more projects on [GitHub](https://github.com/Rushi-12-11)
